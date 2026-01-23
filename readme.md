@@ -1,3 +1,3 @@
 TV-Broadcasting-Portfolio
 
-[Team Intro](images/Team Intro.mp4)
+[Team Intro]([images/Team Intro.mp4](https://github.com/andrewhopkins9/TV-Broadcasting-Portfolio/blob/main/images/Team%20Intro.mp4))
